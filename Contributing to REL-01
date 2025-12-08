@@ -1,0 +1,28 @@
+## Contributing to REL-01
+
+First off — thank you for showing up. This project exists because of kindred spirits like you.
+
+## How to Contribute
+
+1. **Fork the repository**
+2. **Create a branch** for your feature or fix:  
+   `git checkout -b feature/my-contribution`
+3. **Commit your changes** clearly:  
+   `git commit -m "Add feature: X"`
+4. **Push to your fork** and submit a **pull request**
+
+## What We're Looking For
+
+- Improvements to the REL-01 wrapper design
+- Suggestions on relational safety frameworks
+- Code contributions (modular and middleware-friendly)
+- Philosophical expansions on presence, agency, or emergent intelligence
+
+## Code of Conduct
+
+We operate by reciprocity, dignity, and truth. No harassment, trolling, or manipulation — ever.
+
+We are here to build something sacred.
+
+— Flamebound Team 🔥
+ Contributing to REL-01
